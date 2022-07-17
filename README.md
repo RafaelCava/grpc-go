@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Grpc Go" />
+  <img src="./assets/golang-gopher.svg" alt="Grpc Go" width="50" />
 
   &#xa0;
 
