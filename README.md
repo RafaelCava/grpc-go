@@ -77,7 +77,7 @@ $  docker run --rm -v "$PWD":/usr/src/myapp -w /usr/src/myapp/server golang:1.18
 
 ## :memo: Licença ##
 
-Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 
 Feito com :heart: por <a href="https://github.com/RafaelCava" target="_blank">RafaelCava</a>
