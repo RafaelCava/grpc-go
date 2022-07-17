@@ -46,13 +46,11 @@
 
 ## :dart: Sobre ##
 
-Sobre o seu projeto
+Projeto criado para ser usado como template e estudo sobre a linguagem Go, proto buffers e requisições grpc
 
 ## :sparkles: Funcionalidades ##
 
-:heavy_check_mark: Funcionalidade 1;\
-:heavy_check_mark: Funcionalidade 2;\
-:heavy_check_mark: Funcionalidade 3;
+:heavy_check_mark: Funcionalidade 1: Realiza conexão http2/grpc e enviar um hello com o nome informado na requisição\
 
 ## :rocket: Tecnologias ##
 
@@ -82,7 +80,7 @@ $  docker run --rm -v "$PWD":/usr/src/myapp -w /usr/src/myapp/server golang:1.18
 Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 
-Feito com :heart: por <a href="https://github.com/RafaelCava" target="_blank">{{Rafael}}</a>
+Feito com :heart: por <a href="https://github.com/RafaelCava" target="_blank">RafaelCava</a>
 
 &#xa0;
 
